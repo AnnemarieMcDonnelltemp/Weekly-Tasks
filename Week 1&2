@@ -1,5 +1,4 @@
-#Annemarie McDonnell Task 1 adapted from code 28/01/18.
-#Ian McLoughlin
+#Annemarie McDonnell Task 1 adapted from code by Ian McLoughlin 28/01/18.
 # A program that displays Fibonacci numbers.
 
 def fib(n):
