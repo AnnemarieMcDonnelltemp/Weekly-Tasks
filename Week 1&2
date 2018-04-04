@@ -1,4 +1,4 @@
-#Annemarie McDonnell Task 1 adapted from code
+#Annemarie McDonnell Task 1 adapted from code 28/01/18.
 #Ian McLoughlin
 # A program that displays Fibonacci numbers.
 
@@ -19,7 +19,7 @@ x = 5
 ans = fib(x)
 print("Fibonacci number", x, "is", ans)
   
-#Annemarie McDonnell Task 2 adapted from code
+#Annemarie McDonnell Task 2 adapted from code 04/02/18
 # Ian McLoughlin
 # A program that displays Fibonacci numbers using people's names.
 
