@@ -7,7 +7,7 @@ def fib(n):
   j = 1
   n = n - 1
 
-  while n >= 0:
+  while n >= 0: #while loop
     i, j = j, i + j
     n = n - 1
   
@@ -18,8 +18,8 @@ x = 5
 ans = fib(x)
 print("Fibonacci number", x, "is", ans)
   
-#Annemarie McDonnell Task 2 adapted from code 04/02/18
-# Ian McLoughlin
+#Annemarie McDonnell adapted from code Ian McLoughlin 04/02/18
+#Task 2 
 # A program that displays Fibonacci numbers using people's names.
 
 def fib(n):
